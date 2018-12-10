@@ -1,5 +1,5 @@
 info:
-  name: wordpress.com article local
+  name: wordpress.com article
   description: Parses any wordpress.com article.
   type: article
   domain: wordpress.com
